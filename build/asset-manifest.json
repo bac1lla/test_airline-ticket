@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e498e545.js",
+    "static/media/baggage-min.svg": "/static/media/baggage-min.8236c7ba2e73586dd530b28a1e8fefe0.svg",
+    "static/media/baggage-large.svg": "/static/media/baggage-large.619d9bd273d49675ced3b0a62a88f266.svg",
+    "static/media/calendar-gray.svg": "/static/media/calendar-gray.316ba4fd5c569f7e94620ab2eb92104d.svg",
+    "static/media/calendar-blue.svg": "/static/media/calendar-blue.81a209b79bef16320246b98844311b32.svg",
+    "index.html": "/index.html",
+    "main.e498e545.js.map": "/static/js/main.e498e545.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e498e545.js"
+  ]
+}
