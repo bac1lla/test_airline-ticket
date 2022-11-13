@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/test_airline-ticket/static/js/main.ab34b061.js",
+    "static/media/baggage-min.svg": "/test_airline-ticket/static/media/baggage-min.d567ad05942ba4052437d413bf66f22c.svg",
+    "static/media/baggage-large.svg": "/test_airline-ticket/static/media/baggage-large.a2929ba362a61e4836298bc2f8d0d146.svg",
+    "static/media/calendar-gray.svg": "/test_airline-ticket/static/media/calendar-gray.b85e87b70393e714bd136f82d34bea2d.svg",
+    "static/media/calendar-blue.svg": "/test_airline-ticket/static/media/calendar-blue.609dbdf668c6c4417c4c9d008130ad32.svg",
+    "index.html": "/test_airline-ticket/index.html",
+    "main.ab34b061.js.map": "/test_airline-ticket/static/js/main.ab34b061.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ab34b061.js"
+  ]
+}
