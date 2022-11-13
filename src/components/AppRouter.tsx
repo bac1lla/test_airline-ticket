@@ -1,7 +1,8 @@
 import React from 'react';
 import {Routes, Route} from 'react-router-dom';
 import {routes} from "../routes";
-import Avia from "../pages/Avia";
+import {Navigate} from "react-router-dom";
+import {AVIA_ROUTE} from "../utils/consts";
 
 const AppRouter = () => {
 
@@ -12,7 +13,7 @@ const AppRouter = () => {
                     <Route key={path} path={path} element={Component}/>
                 )
             }
-            <Route path='*' element={(<Avia/>)}/>
+            <Route path='*' element={<Navigate to={AVIA_ROUTE} replace/>}/>
         </Routes>
     );
 };
